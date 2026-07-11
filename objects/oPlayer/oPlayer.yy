@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oPlayer1",
+  "%Name":"oPlayer",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oRock","path":"objects/oRock/oRock.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oPlayer1",
+  "name":"oPlayer",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPlayer1",
-    "path":"sprites/sPlayer1/sPlayer1.yy",
+    "name":"sPlayer",
+    "path":"sprites/sPlayer/sPlayer.yy",
   },
   "spriteMaskId":null,
   "visible":true,
