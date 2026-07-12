@@ -9,8 +9,8 @@
   "name":"oTitle",
   "overriddenProperties":[],
   "parent":{
-    "name":"com.gamemaker",
-    "path":"com.gamemaker.yyp",
+    "name":"object",
+    "path":"folders/object.yy",
   },
   "parentObjectId":null,
   "persistent":false,
