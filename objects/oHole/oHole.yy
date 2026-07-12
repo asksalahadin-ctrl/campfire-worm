@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oPoint",
+  "%Name":"oHole",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oPoint",
+  "name":"oHole",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPoint",
-    "path":"sprites/sPoint/sPoint.yy",
+    "name":"hole",
+    "path":"sprites/hole/hole.yy",
   },
   "spriteMaskId":null,
   "visible":true,

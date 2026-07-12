@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oPoint",
+  "%Name":"oController",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oPoint",
+  "name":"oController",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"com.gamemaker",
+    "path":"com.gamemaker.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sPoint",
-    "path":"sprites/sPoint/sPoint.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
